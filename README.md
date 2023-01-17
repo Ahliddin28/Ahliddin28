@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Tohirjon</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h1 align="center">Hi 👋, I'm Ahliddin</h1>
+<h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
 <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tohirjon-Odilov&label=Profile%20views&color=0e75b6&style=flat" alt="Tohirjon-Odilov" /> </p>
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Python django**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Fullstack**
 
-- 📫 How to reach me **tohirjonodilov19@gmail.com**
+- 📫 How to reach me **kuchkarovahliddin@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 <details>
     <summary><b>✨About Me</b></summary><br/>
-    My name is <strong>Tohirjon.</strong> Full name is <strong>Odilov Tohirjon.</strong> I'm from <strong>Andijan. 19.y.o</strong>
+    My name is <strong>Ahliddin.</strong> Full name is <strong>Kuchkarov Ahliddin.</strong> I'm from <strong>Andijan. 16.y.o</strong>
 </details>
 <details>
     <summary><b>🎭 My hobbies</b></summary><br/>
@@ -22,11 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://instagram.com/Tohirjon-Odilov" target="blank" >
+ <a href="https://instagram.com/mr_ahliddin" target="blank" >
        
  ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)</a>
 
- <a href="https://t.me/t-odilov" target="_blank">
+ <a href="https://t.me/mr_ahliddin" target="_blank">
        
  ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)</a>
     </p>
