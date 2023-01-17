@@ -23,12 +23,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://instagram.com/mr_ahliddin" target="blank" >
-       
- ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)</a>
+    instagram   
+</a>
 
  <a href="https://t.me/mr_ahliddin" target="_blank">
        
- ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)</a>
+Telegram</a>
     </p>
 
 <h2 align="left">Languages and Tools:</h2>
