@@ -37,7 +37,6 @@
 ## About me
 
 - 🔭 I’m currently studying on **[Robocode IT Academy](https://robocode.uz)**
-- 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3.7-informational)
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
